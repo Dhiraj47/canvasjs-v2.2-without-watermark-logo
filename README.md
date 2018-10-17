@@ -1,3 +1,5 @@
 # canvasjs-without-watermark-logo
 
-version 2.2
+canvasjs version 2.2
+
+this file has been edited to hide watermarks or logo (like 'Free Trial' and 'website logo')
